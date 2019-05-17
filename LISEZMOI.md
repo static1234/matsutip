@@ -1,5 +1,5 @@
 # matsutip
-Aider Matsuki sur tipee
+Aidez Matsuki sur tipee
 
 /!\ VOUS AUREZ BESOIN DE PYTHON 3.7 /!\
 
@@ -18,4 +18,4 @@ Dépendances:
 Ou executez Installateur de dépendances.bat
 
 Pour parramètrer le programme lancez Config.py
-Suivez les instructions et inscrivez les dans le programme principal.
+Suivez les instructions et inscrivez les coordonées dans le programme principal.
